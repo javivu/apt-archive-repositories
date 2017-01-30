@@ -2,6 +2,6 @@
 deb http://archive.debian.org/debian/ squeeze main contrib non-free
 deb-src http://archive.debian.org/debian/ squeeze main contrib non-free
 
-#Debian 6.0.6 Lenny security archive repos
+#Debian 6.0.6 Squeeze security archive repos
 deb http://archive.debian.org/debian-security/ squeeze/updates main contrib non-free
 deb-src http://archive.debian.org/debian-security/ squeeze/updates main contrib non-free
