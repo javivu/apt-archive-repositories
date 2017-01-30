@@ -1,1 +1,6 @@
+# Debian 5.0 Lenny old-release repositories
+deb http://old-release.debian.org/debian/ lenny main non-free contrib
+deb-src http://old-release.debian.org/debian/ lenny main non-free contrib
 
+deb http://old-release.debian.org/debian-security/ lenny/updates main non-free contrib
+deb-src http://old-release.debian.org/debian-security/ lenny/updates main non-free contrib
