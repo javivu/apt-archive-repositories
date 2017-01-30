@@ -1,8 +1,8 @@
 ## Ubuntu 12.04 
 # Required
-deb http://old-releases.ubuntu.com/ubuntu/ CODENAME main restricted universe multiverse
-deb http://old-releases.ubuntu.com/ubuntu/ CODENAME-updates main restricted universe multiverse
-deb http://old-releases.ubuntu.com/ubuntu/ CODENAME-security main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ precise main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ precise-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ precise-security main restricted universe multiverse
 
 # Optional
-#deb http://old-releases.ubuntu.com/ubuntu/ CODENAME-backports main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ precise-backports main restricted universe multiverse
