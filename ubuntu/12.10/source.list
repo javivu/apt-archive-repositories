@@ -1,1 +1,8 @@
+## Ubuntu 12.10 quantal
+# Required
+deb http://old-releases.ubuntu.com/ubuntu/ quantal main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ quantal-updates main restricted universe multiverse
+deb http://old-releases.ubuntu.com/ubuntu/ quantal-security main restricted universe multiverse
 
+# Optional
+deb http://old-releases.ubuntu.com/ubuntu/ quantal-backports main restricted universe multiverse
